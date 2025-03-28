@@ -1,0 +1,9 @@
+li a {
+    color: white;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background: white url("images/background.jpg");
+}
